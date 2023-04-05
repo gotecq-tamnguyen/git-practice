@@ -7,4 +7,4 @@
 *.txt
 
 # except files in /data
-!/data/*.txt
+!/data/text/*.txt
