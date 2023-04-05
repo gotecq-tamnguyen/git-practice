@@ -1,0 +1,10 @@
+./build
+./bin
+./debug
+
+*.tmp
+*.cache
+*.txt
+
+# except files in /data
+!/data/*.txt
